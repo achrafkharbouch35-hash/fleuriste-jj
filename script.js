@@ -23,6 +23,7 @@ const GALLERY_ITEMS = [
   { img: "A2.jpg", category: "anniversaires", title: "Ballons & fleurs anniversaire" },
   { img: "D3.jpg", category: "decoration", title: "Coin décoratif floral" }
 ];
+
 const CATEGORY_LABELS = {
   bouquets: "Bouquets",
   mariages: "Mariages",

@@ -5,7 +5,7 @@
 
 // ---------- CONFIG (edit here to update business info sitewide) ----------
 const CONFIG = {
-  whatsappNumber: "212609454398" // Moroccan format, no + or spaces
+  whatsappNumber: "212605022401" // Moroccan format, no + or spaces
 };
 
 // ---------- GALLERY DATA (replace image URLs with real photos later) ----------
@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   /* ---------- WhatsApp links: build proper wa.me URLs from data-wa-message ---------- */
   document.querySelectorAll(".whatsapp-link").forEach(link => {
-    const message = link.getAttribute("data-wa-message") || "Bonjour Les Fleurs de Chaimae 🌷";
+    const message = link.getAttribute("data-wa-message") || "Bonjour Les Fleurs Fes 🌷";
     link.setAttribute("href", `https://wa.me/${CONFIG.whatsappNumber}?text=${encodeURIComponent(message)}`);
     link.setAttribute("target", "_blank");
     link.setAttribute("rel", "noopener");

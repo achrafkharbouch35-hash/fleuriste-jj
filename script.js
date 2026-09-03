@@ -10,18 +10,18 @@ const CONFIG = {
 
 // ---------- GALLERY DATA (replace image URLs with real photos later) ----------
 const GALLERY_ITEMS = [
-  { img: "https://B1.jpg", category: "bouquets", title: "Bouquet Romantique" },
-  { img: "https://M1.jpg", category: "mariages", title: "Bouquet de mariée" },
-  { img: "https://D1.jpg", category: "decoration", title: "Décor de table événement" },
-  { img: "https://B2.jpg", category: "bouquets", title: "Bouquet Élégance" },
-  { img: "https://C1.jpg", category: "cadeaux", title: "Composition cadeau blanche" },
-  { img: "https://A1.jpg", category: "anniversaires", title: "Décor d'anniversaire fleuri" },
-  { img: "https://D2.jpg", category: "decoration", title: "Décor pour séance photo" },
-  { img: "https://B3.jpg", category: "bouquets", title: "Bouquet de roses roses" },
-  { img: "https://C2.jpg", category: "cadeaux", title: "Panier fleuri cadeau" },
-  { img: "https://M2.jpg", category: "mariages", title: "Arche florale mariage" },
-  { img: "https://A2.jpg", category: "anniversaires", title: "Ballons &amp; fleurs anniversaire" },
-  { img: "https://D3.jpg", category: "decoration", title: "Coin décoratif floral" }
+  { img: "B1.jpg", category: "bouquets", title: "Bouquet Romantique" },
+  { img: "M1.jpg", category: "mariages", title: "Bouquet de mariée" },
+  { img: "D1.jpg", category: "decoration", title: "Décor de table événement" },
+  { img: "B2.jpg", category: "bouquets", title: "Bouquet Élégance" },
+  { img: "C1.jpg", category: "cadeaux", title: "Composition cadeau blanche" },
+  { img: "A1.jpg", category: "anniversaires", title: "Décor d'anniversaire fleuri" },
+  { img: "D2.jpg", category: "decoration", title: "Décor pour séance photo" },
+  { img: "B3.jpg", category: "bouquets", title: "Bouquet de roses roses" },
+  { img: "C2.jpg", category: "cadeaux", title: "Panier fleuri cadeau" },
+  { img: "M2.jpg", category: "mariages", title: "Arche florale mariage" },
+  { img: "A2.jpg", category: "anniversaires", title: "Ballons &amp; fleurs anniversaire" },
+  { img: "D3.jpg", category: "decoration", title: "Coin décoratif floral" }
 ];
 
 const CATEGORY_LABELS = {

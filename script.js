@@ -10,18 +10,18 @@ const CONFIG = {
 
 // ---------- GALLERY DATA (replace image URLs with real photos later) ----------
 const GALLERY_ITEMS = [
-  { img: "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=700&q=80", category: "bouquets", title: "Bouquet Romantique" },
-  { img: "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?auto=format&fit=crop&w=700&q=80", category: "mariages", title: "Bouquet de mariée" },
-  { img: "https://images.unsplash.com/photo-1502741224143-90386d7f8c82?auto=format&fit=crop&w=700&q=80", category: "decoration", title: "Décor de table événement" },
-  { img: "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=700&q=80", category: "bouquets", title: "Bouquet Élégance" },
-  { img: "https://images.unsplash.com/photo-1567696911980-2c469b31a0f3?auto=format&fit=crop&w=700&q=80", category: "cadeaux", title: "Composition cadeau blanche" },
-  { img: "https://images.unsplash.com/photo-1595351298020-038700609878?auto=format&fit=crop&w=700&q=80", category: "anniversaires", title: "Décor d'anniversaire fleuri" },
-  { img: "https://images.unsplash.com/photo-1519378058457-4c29a0a2efac?auto=format&fit=crop&w=700&q=80", category: "decoration", title: "Décor pour séance photo" },
-  { img: "https://images.unsplash.com/photo-1487070183336-b863922373d4?auto=format&fit=crop&w=700&q=80", category: "bouquets", title: "Bouquet de roses roses" },
-  { img: "https://images.unsplash.com/photo-1462275646964-a0e3386b89fa?auto=format&fit=crop&w=700&q=80", category: "cadeaux", title: "Panier fleuri cadeau" },
-  { img: "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=700&q=80", category: "mariages", title: "Arche florale mariage" },
-  { img: "https://images.unsplash.com/photo-1509587584298-0f3b3a3a1797?auto=format&fit=crop&w=700&q=80", category: "anniversaires", title: "Ballons &amp; fleurs anniversaire" },
-  { img: "https://images.unsplash.com/photo-1518895312237-a9e23a077966?auto=format&fit=crop&w=700&q=80", category: "decoration", title: "Coin décoratif floral" }
+  { img: "https://B1", category: "bouquets", title: "Bouquet Romantique" },
+  { img: "https://M1", category: "mariages", title: "Bouquet de mariée" },
+  { img: "https://D1", category: "decoration", title: "Décor de table événement" },
+  { img: "https://B2", category: "bouquets", title: "Bouquet Élégance" },
+  { img: "https://C1", category: "cadeaux", title: "Composition cadeau blanche" },
+  { img: "https://A1", category: "anniversaires", title: "Décor d'anniversaire fleuri" },
+  { img: "https://D2", category: "decoration", title: "Décor pour séance photo" },
+  { img: "https://B3", category: "bouquets", title: "Bouquet de roses roses" },
+  { img: "https://C2", category: "cadeaux", title: "Panier fleuri cadeau" },
+  { img: "https://M2", category: "mariages", title: "Arche florale mariage" },
+  { img: "https://A2", category: "anniversaires", title: "Ballons &amp; fleurs anniversaire" },
+  { img: "https://D3", category: "decoration", title: "Coin décoratif floral" }
 ];
 
 const CATEGORY_LABELS = {

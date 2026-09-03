@@ -10,18 +10,18 @@ const CONFIG = {
 
 // ---------- GALLERY DATA (replace image URLs with real photos later) ----------
 const GALLERY_ITEMS = [
-  { img: "images/B1.jpg", category: "bouquets", title: "Bouquet Romantique" },
-  { img: "images/M1.jpg", category: "mariages", title: "Bouquet de mariée" },
-  { img: "images/D1.jpg", category: "decoration", title: "Décor de table événement" },
-  { img: "images/B2.jpg", category: "bouquets", title: "Bouquet Élégance" },
-  { img: "images/C1.jpg", category: "cadeaux", title: "Composition cadeau blanche" },
-  { img: "images/A1.jpg", category: "anniversaires", title: "Décor d'anniversaire fleuri" },
-  { img: "images/D2.jpg", category: "decoration", title: "Décor pour séance photo" },
-  { img: "images/B3.jpg", category: "bouquets", title: "Bouquet de roses roses" },
-  { img: "images/C2.jpg", category: "cadeaux", title: "Panier fleuri cadeau" },
-  { img: "images/M2.jpg", category: "mariages", title: "Arche florale mariage" },
-  { img: "images/A2.jpg", category: "anniversaires", title: "Ballons & fleurs anniversaire" },
-  { img: "images/D3.jpg", category: "decoration", title: "Coin décoratif floral" }
+  { img: "B1.jpg", category: "bouquets", title: "Bouquet Romantique" },
+  { img: "M1.jpg", category: "mariages", title: "Bouquet de mariée" },
+  { img: "D1.jpg", category: "decoration", title: "Décor de table événement" },
+  { img: "B2.jpg", category: "bouquets", title: "Bouquet Élégance" },
+  { img: "C1.jpg", category: "cadeaux", title: "Composition cadeau blanche" },
+  { img: "A1.jpg", category: "anniversaires", title: "Décor d'anniversaire fleuri" },
+  { img: "D2.jpg", category: "decoration", title: "Décor pour séance photo" },
+  { img: "B3.jpg", category: "bouquets", title: "Bouquet de roses roses" },
+  { img: "C2.jpg", category: "cadeaux", title: "Panier fleuri cadeau" },
+  { img: "M2.jpg", category: "mariages", title: "Arche florale mariage" },
+  { img: "A2.jpg", category: "anniversaires", title: "Ballons & fleurs anniversaire" },
+  { img: "D3.jpg", category: "decoration", title: "Coin décoratif floral" }
 ];
 
 const CATEGORY_LABELS = {
